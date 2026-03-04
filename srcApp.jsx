@@ -5,8 +5,8 @@ const CultureSkillsMapper = () => {
   const [behaviors, setBehaviors] = useState([
     {
       id: 1,
-      name: '투명한 의사소통',
-      description: '조직 내 정보를 명확하고 개방적으로 공유',
+      name: 'Customer at the core',
+      description: '우리는 항상 고객을 최우선으로 생각하며 시작합니다','무엇이 고객을 성공하게 만드는지 이해합니다',
       skills: ['활경청', '명확한 표현', '피드백 수용'],
       rating: 3,
       evaluationDate: '2024-03-01',
